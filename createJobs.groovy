@@ -13,7 +13,7 @@ pipelineJob('theme-park-job') {
             scm {
                 git {
                     remote {
-                        url 'https://github.com/parth2706/jenkins-demo.git'
+                        url 'https://github.com/parth2706/spring-boot-api-example.git'
                     }
                     branch 'master'
                 }
